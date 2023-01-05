@@ -8,13 +8,11 @@
 </div>
 <div style="display: inline_block; margin-top:50px"><br>
   <img align="center" alt="victor-Js" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="victor-Ts" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="victor-React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="victor-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="victor-CSS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="victor-Python" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="victor-php" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://i.picasion.com/pic92/6fa5efb76b89cdb3ce03d1ea1e8e614c.gif?width=676&height=676">
+  <img align="right" alt="victor-pic" height="250" style="border-radius:50px;" src="https://i.picasion.com/pic92/6fa5efb76b89cdb3ce03d1ea1e8e614c.gif?width=676&height=676">
 </div>
   
   ##
