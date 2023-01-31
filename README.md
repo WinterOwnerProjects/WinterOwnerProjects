@@ -12,7 +12,7 @@
   <table>
   <tr>
     <td>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<hr></td>
-    <td> &nbsp &nbsp<img align="center" alt="victor-pic" height="300" style="border-radius:50px;" src="https://i.picasion.com/pic92/6fa5efb76b89cdb3ce03d1ea1e8e614c.gif?width=250&height=250">&nbsp &nbsp </td>
+    <td> &nbsp &nbsp<img align="center" alt="victor-pic" height="260" style="border-radius:50px;" src="https://i.picasion.com/pic92/6fa5efb76b89cdb3ce03d1ea1e8e614c.gif?width=250&height=250">&nbsp &nbsp </td>
     <td>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<hr></td>
   </tr>
 </table>
